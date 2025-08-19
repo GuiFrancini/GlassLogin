@@ -29,5 +29,5 @@ se o video não funcionar, verifique se o Codec é compatível com seu navegador
 
    | Imagem da tela|
   |---|
-  |<img  src="LoginGlass.png" alt="tela de inicio"/> | 
+  |<img  src="loginGlass.png" alt="imagem da tela"/> | 
 </div></ol>
