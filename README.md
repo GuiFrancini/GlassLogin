@@ -1,5 +1,5 @@
 
-# Tela de Login glass design
+# Tela de Login com Glass Design
 
 Uma tela de login feita com HTML, CSS e JavaScript, usando o liquid glass design, como padrão de design para a tela de login.
 
