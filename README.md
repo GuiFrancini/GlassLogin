@@ -26,3 +26,8 @@ se o video não funcionar, verifique se o Codec é compatível com seu navegador
 
 ## Exemplo:
  No chrome, clique e arraste o video para o navegador abrir, se o video funciar significa que ele aceita, caso contrário ele não tem suporte a o vídeo.
+
+   | Imagem da tela|
+  |---|
+  |<img  src="LoginGlass.png" alt="tela de inicio"/> | 
+</div></ol>
